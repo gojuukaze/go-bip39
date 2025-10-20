@@ -1,5 +1,5 @@
-module github.com/gojuukaze/go-bip39
+module github.com/tyler-smith/go-bip39
 
-go 1.24
+go 1.24.0
 
-require golang.org/x/crypto v0.40.0
+require golang.org/x/crypto v0.43.0
